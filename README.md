@@ -8,5 +8,5 @@ The other intent is BalanceIntent: by telling alexa "show my balance" it will qu
 
 This is WorkInProgress.
 
-![image](https://user-images.githubusercontent.com/36307819/135112788-78ab0034-af83-4e02-9e3e-f5536142c335.png)
+![image](https://user-images.githubusercontent.com/36307819/135113916-247e080b-c3b7-49a6-a1fd-929d7fec411b.png)
 ![image](https://user-images.githubusercontent.com/36307819/135113145-0217f4b6-8568-487d-b535-62a35987ae51.png)
